@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">ICarNFC</string>
+    <string name="mesvoitures">Mes Voitures</string>
+
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
