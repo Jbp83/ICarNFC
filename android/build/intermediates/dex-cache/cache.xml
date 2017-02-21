@@ -3,111 +3,111 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jar="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_7479228dca8715273396cb27709f0e8d54a38034\classes.dex" />
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_263dff25960cb5d62643204ddb08077b697a82b8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_9c53b39221abaf9289aaabb8197db22891a3323d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_73688d8c605b90b652c11e18efac5568e4fbf8c1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_589f987a9b3135590c69175d70e9aef3c737019c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_baa1dc9b67753ea351ced955d2e4e85db1ac87b4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_5010da8ee2bac45cd0bb6baca7e0b99cf86f4288\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_8ac03fca4bae304e28c56b2c75b76971a1f2f4ab\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jar="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_237ad0e748e9af88822dd7c3ca87ff9068865866\classes.dex" />
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_8b1552b16b155e441674d284de9aa9c1cf7905ca\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_0ceffb80c059b6fe925c9da0679b96dc52e48d1e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d485a8459c90d24ec6a36c7dcff1e74888838dcd">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_77edcf556fb93c6cee2c7c578dc4c7a99a549347\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_7672d597b19e4d6074eea67ff0df6e5fbf318c60\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jar="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_8fe950ebbe8a26ace673781ee29c009005120ce4\classes.dex" />
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_0b6b57b5334496aa4b14f903977b88842a2931b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_19e98a8801ca161de9f5fca455d7d724d79473dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_3e476488cb03ac44ee6e3b57b5f26cd110be7fad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_6883b4102972e092dad6ad5924c2ec2fd6702c87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="876d9e40e5ac5f299f45ae10a1616232fd6e8191">
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2a3c170799daae817bec6feae7442d67f2786273\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_b5e1e61ef37d636f18bfc4c7d0ef13f6a1f31f35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_72319a7b8cb360355a8e7405f82ee1d1f4ec8403\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_408b64753dd756e93a7856d8834c36c3fa1d0abc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="66f0aca6376adeff7d978d0374ece242eabc7846">
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_46cc9fee7ad6ceb9014b35f2aa4b775225d8ea68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_b9f7bb94ce1eee7d7f312b45f7973bd8a17d4409\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -116,25 +116,25 @@
         optimize="true"
         revision="25.0.2"
         sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_bf7e04b7f6ab2c1d66a75972a4eaec24b0aa93f5\classes.dex" />
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_bf7e04b7f6ab2c1d66a75972a4eaec24b0aa93f5\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="7e4609e1dd31d8217b79e6fd8675d87542634d00">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ddcbcfd02a6f948adc41eddddf65315dc7611ac6\classes.dex" />
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_5fe6e98803aaf8dc459dca4131c6c95c3ddd92f1\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jar="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="C:\Users\Mars\Documents\ICarNFC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_218f411cc5283574b47c642567097ef473d6db01\classes.dex" />
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Mars\Documents\ICarNFC\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_a838071a8c53dd7d61a0473a81f4c9e3b47455db\classes.dex" />
     </item>
 
 </items>
