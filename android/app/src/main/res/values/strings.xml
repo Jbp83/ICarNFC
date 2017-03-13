@@ -27,5 +27,6 @@
     <string name="apropos">A propos</string>
     <string name="quitter">Quitter</string>
     <string name="retour">Retour</string>
+    <string name="title_activity_test">Sign in</string>
 </resources>
 
