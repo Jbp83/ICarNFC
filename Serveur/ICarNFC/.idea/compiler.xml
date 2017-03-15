@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="ICarNFC" />
+        <module name="gs-spring-boot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ICarNFC" target="1.8" />
+      <module name="gs-spring-boot" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
