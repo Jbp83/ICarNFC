@@ -24,16 +24,6 @@ public interface GitHubService1 {
 
     // GitHubService1 service = retrofit.create(GitHubService1.class);
 
-call.enqueue(new Callback<List<Contributor>>() {
-        @Override
-        public void onResponse(Response<List<Contributor>> response, Retrofit retrofit) {
-            // handle success
-        }
 
-        @Override
-        public void onFailure(Throwable t) {
-            // handle failure
-        }
-    });
 
 }
