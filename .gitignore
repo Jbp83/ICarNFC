@@ -46,6 +46,12 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
 #Mobile
 
+/android/.gradle
 /android/build
+/Authentication
+.idea
+
+
