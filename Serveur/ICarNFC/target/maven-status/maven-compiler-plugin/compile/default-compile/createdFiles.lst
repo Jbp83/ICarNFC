@@ -1,4 +1,2 @@
-hello\icarService.class
-hello\HelloController.class
-hello\Application.class
-hello\icarServiceImpl.class
+services\Application.class
+services\icarService.class
